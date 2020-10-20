@@ -1,2 +1,4 @@
 This is another file
 Just so you know
+
+here is a line in another file
